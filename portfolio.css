@@ -247,7 +247,7 @@ p {
 	
 	animation: text_reveal_name 0.5s ease forwards;
 	animation-delay: 3s;
-	color: black;
+	
 }
 #hero h1 span {
 	position: absolute;
@@ -268,6 +268,7 @@ p {
 }
 #hero h1:nth-child(3) span {
 	animation-delay: 2.5s;
+	color: black;
 }
 
 /* End Hero Section */
